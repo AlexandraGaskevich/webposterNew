@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "BubbleboddyNeue-trial";
+
+  src: url("../fonts/BubbleboddyNeue-trial.woff") format("woff");
+}
+@font-face {
+  font-family: "BubbleboddyNeueThin-trial";
+  src: url("../fonts/BubbleboddyNeueThin-trial.woff") format("woff");
+}
