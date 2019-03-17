@@ -102,6 +102,7 @@ h2 {
   text-align: center;
 }
 .paragraph {
+  margin-top: 4vh;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
