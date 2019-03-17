@@ -183,10 +183,10 @@ span {
   height: 40vh;
   margin-top: -2vh
 }
-
-@media (min-width: 1920px) {
+@media (min-width: 1440px) {
   .background {
     width: 100vw;
+    height: 100vh;
   }
   .sky{
     height: 98vh;
