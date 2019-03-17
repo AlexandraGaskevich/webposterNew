@@ -83,7 +83,8 @@ h1 {
 h3 {
   font-size: 2.4vw;
 
-  font-family: Bubbleboddy Neue Trial Light;
+  font-family: BubbleboddyNeueThin-trial;
+  font-weight: bold;
   color: white;
   text-align: center;
   opacity: 0.5;
@@ -97,7 +98,7 @@ h2 {
   padding-top: 43vh;
   font-size: 3.6vw;
 
-  font-family: Bubbleboddy Neue Trial Regular;
+  font-family: BubbleboddyNeue-trial;
   font-weight: 20;
   text-align: center;
 }
@@ -120,10 +121,10 @@ h2 {
 }
 p {
   font-size: 2.2vw;
-  font-family: Bubbleboddy Neue Trial Thin;
+  font-family: BubbleboddyNeueThin-trial;
 }
 span {
-  font-family: Bubbleboddy Neue Trial Regular;
+  font-family: BubbleboddyNeue-trial;
 }
 
 .map {

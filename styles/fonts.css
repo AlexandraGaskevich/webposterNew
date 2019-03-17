@@ -1,9 +1,24 @@
 @font-face {
   font-family: "BubbleboddyNeue-trial";
-
-  src: url("../fonts/BubbleboddyNeue-trial.woff") format("woff");
+  src: url("../fonts/Bubbleboddy-Neue-trial.woff") format("woff");
 }
 @font-face {
   font-family: "BubbleboddyNeueThin-trial";
-  src: url("../fonts/BubbleboddyNeueThin-trial.woff") format("woff");
+  src: url("../fonts/Bubbleboddy-Neue-Thin-trial.woff") format("woff");
+}
+@font-face {
+  font-family: "BubbleboddyNeuelight-trial";
+  src: url("../fonts/bubbleboddy-light-trial.woff") format("woff");
+}
+@font-face {
+  font-family: "ubbleboddyNeueExtraBold-trial";
+  src: url("../fonts/Bubbleboddy-Neue-Extra-Bold-trial.woff") format("woff");
+}
+@font-face {
+  font-family: "BubbleboddyNeueLight-trial";
+  src: url("../fonts/Bubbleboddy-Neue-Light-trial") format("woff");
+}
+@font-face {
+  font-family: "Celestina";
+  src: url("../fonts/Celestina.woff") format("woff");
 }
